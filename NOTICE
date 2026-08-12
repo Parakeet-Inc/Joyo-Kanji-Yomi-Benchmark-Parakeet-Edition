@@ -1,0 +1,15 @@
+Joyo Kanji Yomi Benchmark: Parakeet Edition evaluator
+
+Copyright (c) 2026 Parakeet Inc.
+
+This project evaluates data derived from the Joyo Kanji Yomi Benchmark:
+
+  https://github.com/sbintuitions/Joyo-Kanji-Yomi-Benchmark
+  https://huggingface.co/datasets/sbintuitions/joyo-kanji-yomi-benchmark
+
+The original benchmark and evaluator are copyright (c) 2026 SB Intuitions and
+were released under the MIT License. The original copyright and permission
+notice are preserved in LICENSE.
+This independently maintained evaluator retains attribution for the original
+benchmark design and the target-span alignment concept. It is not an official
+SB Intuitions release.
